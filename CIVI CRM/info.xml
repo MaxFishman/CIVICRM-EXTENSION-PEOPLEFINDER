@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension key="com.example.peoplefinder" type="module">
+  <file>PeopleFinder</file>
+  <name>People Finder</name>
+  <description>Allows users to search for friends from the past and connect without disclosing personal information</description>
+  <license>AGPL-3.0</license>
+  <maintainer>Your Name</maintainer>
+  <releaseDate>2024-01-01</releaseDate>
+  <version>1.0</version>
+  <compatibility>
+    <ver>5.0</ver>
+  </compatibility>
+  <comments>Privacy-focused people finder extension for CiviCRM</comments>
+  <urls>
+    <url desc="Main Extension Page">civicrm/peoplefinder</url>
+  </urls>
+</extension>
+
